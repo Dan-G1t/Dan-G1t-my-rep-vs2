@@ -130,7 +130,7 @@ class PassAPITest(APITestCase):
         'title': 'Перевал 1',
         'beauty_title': 'Перевал',
         'other_titles': 'Другое название перевала',
-        'connect': 'Связанный текст',
+        'connect': 'Что соединяет',
         'user': {
             'username': 'testuser',
             'email': 'testuser4@example.com',
